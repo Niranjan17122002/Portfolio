@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Niranjan17122002/Portfolio.git/static/css/main.7f591b00.css",
-    "main.js": "/Niranjan17122002/Portfolio.git/static/js/main.5ae5a532.js",
-    "static/media/about.png": "/Niranjan17122002/Portfolio.git/static/media/about.619ff0b319a55d0c05b1.png",
-    "static/media/hero.png": "/Niranjan17122002/Portfolio.git/static/media/hero.f14f30c6d01a97df04f6.png",
-    "static/media/resume.jpg": "/Niranjan17122002/Portfolio.git/static/media/resume.40d9ec3d0701d254f50f.jpg",
-    "static/media/Niranjan Resume.pdf": "/Niranjan17122002/Portfolio.git/static/media/Niranjan Resume.836b624e04ce5f4d361b.pdf",
-    "static/media/website-blog.jpg": "/Niranjan17122002/Portfolio.git/static/media/website-blog.34169abf2d417858685b.jpg",
-    "index.html": "/Niranjan17122002/Portfolio.git/index.html",
-    "main.7f591b00.css.map": "/Niranjan17122002/Portfolio.git/static/css/main.7f591b00.css.map",
-    "main.5ae5a532.js.map": "/Niranjan17122002/Portfolio.git/static/js/main.5ae5a532.js.map"
+    "main.css": "/Portfolio/static/css/main.7f591b00.css",
+    "main.js": "/Portfolio/static/js/main.4cde8a6e.js",
+    "static/media/about.png": "/Portfolio/static/media/about.619ff0b319a55d0c05b1.png",
+    "static/media/hero.png": "/Portfolio/static/media/hero.f14f30c6d01a97df04f6.png",
+    "static/media/resume.jpg": "/Portfolio/static/media/resume.40d9ec3d0701d254f50f.jpg",
+    "static/media/Niranjan Resume.pdf": "/Portfolio/static/media/Niranjan Resume.836b624e04ce5f4d361b.pdf",
+    "static/media/website-blog.jpg": "/Portfolio/static/media/website-blog.34169abf2d417858685b.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.7f591b00.css.map": "/Portfolio/static/css/main.7f591b00.css.map",
+    "main.4cde8a6e.js.map": "/Portfolio/static/js/main.4cde8a6e.js.map"
   },
   "entrypoints": [
     "static/css/main.7f591b00.css",
-    "static/js/main.5ae5a532.js"
+    "static/js/main.4cde8a6e.js"
   ]
 }
